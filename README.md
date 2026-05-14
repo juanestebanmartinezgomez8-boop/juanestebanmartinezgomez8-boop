@@ -4,15 +4,23 @@
 ## 👨‍💻 Sobre mí
 
 🎓 Actualmente estudio en el SENA desde hace 2 años, enfocándome en el área de análisis y desarrollo de software.  
-🚀 Me encuentro en búsqueda de realizar mi tecnólogo y seguir creciendo profesionalmente en el mundo de la programación.  
 
-💡 Tengo conocimientos en:
+💻 Tengo conocimientos en desarrollo web y creación de páginas web, habilidades que me ayudaron a graduarme del colegio y fortalecer mi pasión por la tecnología.  
 
-- HTML
-- CSS
-- Python
-- Visual Studio Code
-- MySQL
-- Git & GitHub
+🚀 Actualmente busco seguir creciendo profesionalmente, realizar mi tecnólogo y continuar escalando en el mundo de la programación para convertirme en un gran desarrollador de software.  
 
-📚 Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades como desarrollador.
+---
+
+## ⚡ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,mysql,git,github,vscode,js" />
+</p>
+
+---
+
+## 📈 Actualmente
+
+✨ Aprendiendo nuevas tecnologías  
+🔥 Mejorando mis habilidades en desarrollo web  
+🚀 Construyendo proyectos para seguir creciendo como programador
